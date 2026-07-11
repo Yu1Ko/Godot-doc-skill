@@ -1,0 +1,4 @@
+interface:
+  display_name: "Godot 4.7 Docs"
+  short_description: "Search Godot 4.7 docs before technical work"
+  default_prompt: "Use $godot-docs to verify the relevant Godot 4.7 nodes and GDScript APIs before implementing this task."
